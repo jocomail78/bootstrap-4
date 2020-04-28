@@ -1,0 +1,8 @@
+body {
+  background-color: white;
+  color: black;
+}
+body div {
+  background-color: lightblue;
+  color: deepskyblue;
+}
